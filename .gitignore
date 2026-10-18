@@ -1,0 +1,6 @@
+# 只提交网页本体：单文件工作台 index.html
+# 设计参考图 / 对照渲染稿 / 测试脚本一律不入库
+*
+!.gitignore
+!index.html
+!README.md
